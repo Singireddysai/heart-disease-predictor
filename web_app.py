@@ -15,7 +15,8 @@ st.markdown(
             text-align: center;
          }
          h3{
-            font-size: 25px
+            font-size: 25px;
+            font-family: Serif;
          }   
          .st-emotion-cache-16txtl3 h1 {
          font: bold 29px Serif;
