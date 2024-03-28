@@ -11,7 +11,7 @@
 
 ## 🌐 Link
 
-[**Launch the Streamlit Web App**](https://heart-disease-predictor-gn6wvrwqzgpofr7eecpzht.streamlit.app/)
+[**Click to Launch the Streamlit Web App**](https://heart-disease-predictor-gn6wvrwqzgpofr7eecpzht.streamlit.app/)
 
 ## 🖼️ Screenshots
 
