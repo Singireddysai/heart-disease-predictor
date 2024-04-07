@@ -1,7 +1,7 @@
 # 💓 Heart Disease Prediction Web App 💔
 
 **Heart Disease Prediction** is a Streamlit web application developed to predict the likelihood of a user experiencing heart failure based on various input parameters. The app takes inputs such as cholesterol level, resting blood pressure, ST slope, chest pain type, age, gender, ECG results, and other parameters to predict the outcome.
-
+-  You can view my analysis and model creation in jupyter notebook **model.ipynb**✌️ 
 ## 🚀 Features
 
 - **Predictive Modeling**: Utilizes machine learning algorithms like **Random Forest** to accurately predict the likelihood of heart disease based on user input.
