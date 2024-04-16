@@ -4,7 +4,7 @@
 -  You can view my analysis and model creation in jupyter notebook **model.ipynb**✌️ 
 ## 🚀 Features
 
-- **Predictive Modeling**: Utilizes machine learning algorithms like **Random Forest** to accurately predict the likelihood of heart disease based on user input.
+- **Predictive Modeling**: Utilizes machine learning algorithms like **Random Forest**, **XGBoost** to accurately predict the likelihood of heart disease based on user input.
 - **User-friendly Interface**: Offers an intuitive and interactive interface for users to input their data and view the prediction results.
 - **Input Parameters**: Allows users to input various parameters such as cholesterol level, blood pressure, age, etc., for personalized predictions.
 - **Real-time Prediction**: Provides instant prediction results based on the user's input data.
